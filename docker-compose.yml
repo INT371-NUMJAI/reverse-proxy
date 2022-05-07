@@ -1,7 +1,7 @@
 networks:
   default:
     external:
-      name: int222-network
+      name: int371-network
 services:
   nginx:
     image: nginx:1.19.10-alpine
